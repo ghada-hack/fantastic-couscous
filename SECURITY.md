@@ -6,7 +6,7 @@ Thank you for helping us keep our project secure. If you find a vulnerability, p
 
 1. **Do not disclose the vulnerability publicly.**
 2. **Contact us directly** at miftahghada01@gmail.com
-3. **Provide detailed information about the vulnerability, including steps to reproduce it.
+3. **Provide detailed information about the vulnerability, including steps to reproduce it.**
 
 We will respond to your report within 7 days and work with you to resolve the issue promptly.
 
